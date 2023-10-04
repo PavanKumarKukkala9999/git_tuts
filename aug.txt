@@ -1,0 +1,52 @@
+aug 17
+
+chat,panipuri - 50
+water - 10
+auto - 20
+juice carbuja - 40
+
+aug 18
+
+milk,coconut - 64
+flowers - 20
+petrol - 70
+tulasi tree - 30
+rapido temple - 61
+cash in temple - 50
+rapido temple to home - 76
+carrot - 13
+
+aug 19
+
+milk - 34
+idle,bajji,vada - 105
+
+aug 23
+
+eggs 18
+
+aug 24
+
+milk,water - 44
+bava - 200(received)
+petrol- 70
+coconut - 50
+curries - 60
+
+25 aug
+
+milk-68
+beerakai - 40
+
+26 aug
+
+milk- 34
+
+27th aug
+
+milk - 34
+thifin - 35
+vankai,tomato - 45
+mirchi,kothemera - 20
+
+
